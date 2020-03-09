@@ -29,7 +29,7 @@ In diesem Kapitel klären wir einige Grundbegriffe auf der "Meta-Ebene". Wir bes
     - Erhebungsinstrumente erstellen, Quantifizierung`r if(lec){" (Achtung, die Quantifizierung stellt eine enorme Reduktion der Wirklichkeit dar!)"}`
     - Erhebung durchführen
     - Daten aufbereiten`r if(lec){": Fehlerkontrolle, Fehlerbereinigung"}`
-- **Daten auswerten** / Hypothesen testen`r if(lec){": Bildung von Indizes, Itemanalysen, Skalenwerten; Univariate Statistiken; Zusammenhangsanalysen"}`
+- **Daten auswerten** / Hypothesen testen`r if(lec){": Bildung von Indizes, Itemanalysen, Skalenwerten; Univariate Statistiken (Statistik, die nur eine Variable verwendet, z.B. die Ermittlung der Zahl der Personen, die unter der Armutsgrenze leben); Zusammenhangsanalysen"}`
 - **Ergebnisse interpretieren** 
 - Berichterstattung
 
